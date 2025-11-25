@@ -1,5 +1,7 @@
 # Nano Banana OOTD
 
+![image](image.png)
+
 A Vue 3 application that leverages Google's Nano Banana Pro (Gemini 3 Pro) model to generate detailed OOTD (Outfit of the Day) breakdowns and character concept sheets from user-uploaded photos.
 
 ## Features
